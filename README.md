@@ -13,7 +13,7 @@ This project is a collection of the open source pytorch code for knowledge disti
 - Knowledge Distillation based on MMsegmentation  [[code]](https://github.com/pppppM/mmsegmentation-distiller)
 ### Object Detection and Instance Segmentation
 - Knowledge Distillation based on MMdetection [[code]](https://github.com/pppppM/mmdetection)
-- Knowledge Distillation based on Adet [[code]](./adet-distill)
+- Knowledge Distillation based on Adet [[code]](./Adet-distill)
 
 ## Update History
 
