@@ -7,13 +7,13 @@ This project is a collection of the open source pytorch code for knowledge disti
 
 ### Semantic Segmentation
 
-- structured knowledge distillation for semantic segmentation, CVPR2019 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Structured_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2019_paper.pdf) [[code]](https://github.com/irfanICMLL/structure_knowledge_distillation/)
+- Structured Knowledge Distillation for Semantic Segmentation, CVPR2019 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Structured_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2019_paper.pdf) [[code]](https://github.com/irfanICMLL/structure_knowledge_distillation/)
 - Intra-class Feature Variation Distillation for Semantic Segmentation, ECCV2020 [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520341.pdf) [[code]](https://github.com/YukangWang/IFVD)
 - Channel-wise Knowledge Distillation for Dense Prediction, ICCV2021 [[paper]](https://arxiv.org/abs/2011.13256) [[code]](./SemSeg-distill)
-- Knowledge distillation based on MMsegmentation  [[code]](https://github.com/pppppM/mmsegmentation-distiller)
+- Knowledge Distillation based on MMsegmentation  [[code]](https://github.com/pppppM/mmsegmentation-distiller)
 ### Object Detection and Instance Segmentation
-- Knowledge distillation based on MMdetection [[code]](https://github.com/pppppM/mmdetection)
-- Knowledge distillation based on adet [[code]](./adet-distill)
+- Knowledge Distillation based on MMdetection [[code]](https://github.com/pppppM/mmdetection)
+- Knowledge Distillation based on Adet [[code]](./adet-distill)
 
 ## Update History
 
