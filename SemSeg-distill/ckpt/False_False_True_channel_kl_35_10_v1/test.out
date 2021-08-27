@@ -1,0 +1,16 @@
+data_dir : /mnt/lustre/share/open-mmlab/datasets/cityscapes
+data_list : ./dataset/list/cityscapes/val.lst
+gpu : 0
+num_classes : 19
+restore_from : ckpt/False_False_True_channel_kl_35_10_v1/city_39999_G.pth
+500 images are loaded!
+0 processd
+100 processd
+200 processd
+300 processd
+400 processd
+mean_IU: 0.738598  IU_array: 
+[0.97724001 0.82536818 0.91600912 0.45008425 0.57626727 0.62577237
+ 0.66846776 0.76270299 0.91973941 0.62761988 0.93985198 0.79539851
+ 0.53512914 0.94303785 0.7202706  0.82438115 0.67335084 0.4938915
+ 0.75877301]
