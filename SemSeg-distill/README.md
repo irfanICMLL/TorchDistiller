@@ -23,7 +23,7 @@ This repository is the official implementation for Channel-wise Knowledge Distil
 
 
 
-This repository contains the PyTorch implementation for the semantic segmentation experiments on Cityscapes.
+This repository contains the PyTorch implementation for the semantic segmentation experiments on Cityscapes. 
 
 To reproduce other experiments, please refer to the following links:
 
@@ -104,5 +104,5 @@ Please consider citing this work if it helps your research:
 ```
 
 ## Acknowledgment
-
+Thanks [[Changyong Shu]](https://github.com/drilistbox) and [[Jianfei Gao]](https://github.com/pppppM) for their valuable contribution.
 This codebase is heavily borrowed from [IFVD](https://github.com/YukangWang/IFVD).
