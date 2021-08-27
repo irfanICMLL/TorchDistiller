@@ -31,5 +31,5 @@ To contribute, PR is appreciated and suggestions are welcome to discuss with.
 
 ## License
 
-For academic use, this project is licensed under the 2-clause BSD License. See LICENSE file. For commercial use, please contact [Chunhua Shen](mailto:chhshen@gmail.com) and [Yifan Liu](mailto: yifanliu0926@gmail.com).
+For academic use, this project is licensed under the 2-clause BSD License. See LICENSE file. For commercial use, please contact [Chunhua Shen](mailto:chhshen@gmail.com) and [Yifan Liu](mailto:yifanliu0926@gmail.com).
 
