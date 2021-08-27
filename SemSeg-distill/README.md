@@ -2,7 +2,7 @@
 
 ## Performance on the Cityscape dataset
 We apply the distillation method to training the [PSPNet](https://arxiv.org/abs/1612.01105). We used the dataset splits (train/val/test) provided [here](https://github.com/speedinghzl/pytorch-segmentation-toolbox). We trained the models at a resolution of 512x512.
-![image](SemSeg-distill/img/Main results.png)
+![image](https://github.com/irfanICMLL/TorchDistiller/blob/929b550409ed6cd06bf4bdde63b4e445db82e0a9/SemSeg-distill/img/Main%20results.png)
 
 
 
